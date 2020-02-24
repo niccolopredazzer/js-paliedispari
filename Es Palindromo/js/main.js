@@ -5,6 +5,7 @@
 //3.Stampare il risultato all'utente
 
 var parolaInserita = prompt('inserisci una parola');
+    console.log(parolaInserita);
 var parolaAlContrario = stringaAlContrario (parolaInserita);
 
 
